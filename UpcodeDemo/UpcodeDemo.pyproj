@@ -24,6 +24,7 @@
     <Compile Include="UpcodeDemo.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="requirements.txt" />
     <Content Include="templates\index.html" />
     <Content Include="static\script.js" />
   </ItemGroup>
